@@ -7,4 +7,4 @@
 * Работа с база данни посредством ORM
 * Работа с различни формати данни - XML, JSON
 
-certificate: https://softuni.bg/certificates/certificates/converttoimage/65189?code=e03a7c76
+Certificate: https://softuni.bg/certificates/certificates/converttoimage/65189?code=e03a7c76
